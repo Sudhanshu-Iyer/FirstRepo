@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FirstRepo/static/css/main.25f74fb8.chunk.css",
+    "main.js": "/FirstRepo/static/js/main.b9b40a34.chunk.js",
+    "main.js.map": "/FirstRepo/static/js/main.b9b40a34.chunk.js.map",
+    "runtime-main.js": "/FirstRepo/static/js/runtime-main.038b2b51.js",
+    "runtime-main.js.map": "/FirstRepo/static/js/runtime-main.038b2b51.js.map",
+    "static/js/2.a3becef7.chunk.js": "/FirstRepo/static/js/2.a3becef7.chunk.js",
+    "static/js/2.a3becef7.chunk.js.map": "/FirstRepo/static/js/2.a3becef7.chunk.js.map",
+    "index.html": "/FirstRepo/index.html",
+    "precache-manifest.b0de05dc4f505342424d35a35431ea80.js": "/FirstRepo/precache-manifest.b0de05dc4f505342424d35a35431ea80.js",
+    "service-worker.js": "/FirstRepo/service-worker.js",
+    "static/css/main.25f74fb8.chunk.css.map": "/FirstRepo/static/css/main.25f74fb8.chunk.css.map",
+    "static/js/2.a3becef7.chunk.js.LICENSE.txt": "/FirstRepo/static/js/2.a3becef7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.038b2b51.js",
+    "static/js/2.a3becef7.chunk.js",
+    "static/css/main.25f74fb8.chunk.css",
+    "static/js/main.b9b40a34.chunk.js"
+  ]
+}
